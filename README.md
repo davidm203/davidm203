@@ -2,7 +2,7 @@
 - 👀 I’m interested in programmin
 - 🌱 I’m currently learning rust
 - 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me davidm203@gmai.com
+- 📫 How to reach me davidm203@gmail.com
 
 <!---
 davidm203/davidm203 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
